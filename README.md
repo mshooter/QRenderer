@@ -9,13 +9,13 @@ pip3 install -r requirements.txt
 ```
 
 ## Run 
-Change .obj file path accordingly
+Change .obj file path accordingly.
 ```
 python3 renderer.py
 ```
 
 ## ToDo's
-[] Load the SMAL model and implement something similar to Benjamin Biggs' [Project](https://github.com/benjiebob/SMALViewer)
-[] Create moving/controllable camera 
-[] Template the project and use it for other things to practice 3D animation papers, inspired by [Jerome Eippers](https://github.com/JeromeEippers/AnimationTech)
-[] Add parameters, for options
+- [ ] Load the SMAL model and implement something similar to Benjamin Biggs' [Project](https://github.com/benjiebob/SMALViewer)
+- [ ] Create moving/controllable camera 
+- [ ] Template the project and use it for other things to practice 3D animation papers, inspired by [Jerome Eippers](https://github.com/JeromeEippers/AnimationTech)
+- [ ] Add parameters, for options
