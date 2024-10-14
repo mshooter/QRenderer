@@ -19,3 +19,7 @@ python3 renderer.py
 - [ ] Create moving/controllable camera 
 - [ ] Template the project and use it for other things to practice 3D animation papers, inspired by [Jerome Eippers](https://github.com/JeromeEippers/AnimationTech)
 - [ ] Add parameters, for options
+
+### Current UI updates 
+14/10/2024: Initial look of the UI using Qt 
+![updatev0](doc/update_v0.png)
