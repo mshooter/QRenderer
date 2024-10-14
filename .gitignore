@@ -3,6 +3,5 @@ __pycache__
 *.mtl
 smal/
 .DS_Store
-*.png
 *.jpeg
 *.jpg
